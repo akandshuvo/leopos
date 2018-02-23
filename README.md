@@ -1,4 +1,9 @@
-Project POS:
+#version 1.0.0
+#author: Shovon Rahman Shuvo
+#author: Sirajum Monir Parvez
+#author: Asadujjaman Rajib
+
+Project LeoPOS:
 
 Features:
 	
