@@ -31,6 +31,15 @@ Features:
 	2. Ability to determine good stock and bad stock.
 	3. Ability to return products to the vendor.
 	4. Ability to replace stock manually.
+
+
+
+	Distribution Module:
+
+	1. Ability to create new warehouse 
+	2. Ability to Add or Remove product between warehouses
+	3. Ability to identify good, bad, faulty products seperately
+	4. 
 	
 	
 	Membership Module:
